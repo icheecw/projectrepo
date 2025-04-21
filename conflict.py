@@ -1,2 +1,2 @@
-def getGreetingMessage(name):
+def getGreetingMessage(name_this):
     return ("Hello " + name)
